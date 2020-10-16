@@ -6,7 +6,7 @@ body{
 }
 #header{
     box-shadow: unset;
-    background-image: url(/images/Rectangle.png);
+    background-image: url(./newrectangle.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -72,10 +72,11 @@ p{
     height: 77.27px;
     border: solid 4px #ffffff;
     background:none;
-    background-image: url(/images/Screenshot.png);
+    background-image: url(./ssabhijay.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    
 }
 #nav ul li a.active span:before {
     color: #ffffff;
@@ -209,7 +210,7 @@ form textarea:focus {
     width: 100%;
     height: 100%;
     background-color: #132C54;
-    background-image: url('/images/Rectangle.png');
+    background-image: url(./newrectangle.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
